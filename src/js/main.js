@@ -1,6 +1,5 @@
-$(function(){
-  //load resources
-  //connect to canvas
-  //initialize game
-  //start the game loop
+$(function() {
+    let canvas = $('#game')[0];
+    let ctx = canvas.getContext('2d');
+
 });

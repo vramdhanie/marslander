@@ -46,7 +46,7 @@
   },
   "homepage": "https://vincentramdhanie.com/",
   "license": "MIT",
-  "name": "Mars Lander",
+  "name": "mars-lander",
   "scripts": {
     "build": "gulp build",
     "test": "gulp archive && mocha --compilers js:babel-register --reporter spec --timeout 5000"
